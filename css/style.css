@@ -246,7 +246,7 @@ button {
 }
 
 .logo img {
-    width: 27%;
+    max-width: 25%;
     float: left;
 }
 
